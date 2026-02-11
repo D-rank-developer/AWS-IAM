@@ -26,3 +26,4 @@ The intern was successfully granted access to the Development environment while 
 ---
 
 This project improved my understanding of AWS IAM, cloud security best practices, and real-world permission management.
+![IAM Project Screenshot](https://raw.githubusercontent.com/D-rank-developer/AWS-IAM/9d92a2dd7eef236a0e74579c715aa8728981b603/img/image1.png)
